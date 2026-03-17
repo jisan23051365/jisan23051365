@@ -66,30 +66,59 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ## 📌 Flagship Projects
 
-### 🏪 Advanced Retail Super Shop Management System
-- Inventory, billing, and reporting system  
-- Designed for scalable retail operations  
+## 📌 Flagship Systems Portfolio
+
+### 💳 Core Banking & Digital Wallet Management System
+- End-to-end banking system with digital wallet integration  
+- Account management, transactions, and financial operations  
+- Designed with secure and scalable architecture  
+
+🔗 https://github.com/jisan23051365/core-banking-digital-wallet-system
 
 ---
 
-### 🏠 Smart Home Automation System
-- IoT-based automation system  
-- Real-time monitoring and control  
+### 🤖 AI-Powered Financial Risk & Compliance System
+- Machine learning–driven risk detection and compliance monitoring  
+- Fraud detection, anomaly analysis, and decision support  
+- Built for intelligent financial governance  
+
+🔗 https://github.com/jisan23051365/ai-financial-risk-compliance-system
 
 ---
 
-### 📊 Data Science Systems
-- Predictive modeling (Regression)  
-- Customer segmentation (Clustering)  
-- Exploratory Data Analysis pipelines  
+### 🏢 Enterprise Resource Analytics & Management System (ERAMS)
+- Enterprise-level system for resource planning and analytics  
+- Data-driven reporting and operational insights  
+- Structured for business intelligence workflows  
+
+🔗 https://github.com/jisan23051365/enterprise-resource-analytics-management-system
 
 ---
 
-## 🎯 Current Direction
+### 🏭 Industrial Manufacturing Production System
+- Production lifecycle management system  
+- Workflow optimization and operational tracking  
+- Designed for industrial-scale environments  
 
-- Building production-grade ML pipelines  
-- Advancing into AI-powered systems  
-- Strengthening data engineering foundations  
+🔗 https://github.com/jisan23051365/industrial-manufacturing-production-system
+
+---
+
+### 🏥 National Hospital Management System
+- Healthcare system for patient, doctor, and resource management  
+- Appointment scheduling, medical records, reporting  
+- Built for efficient hospital operations  
+
+🔗 https://github.com/jisan23051365/national-hospital-management-system
+
+---
+
+### 🎓 University Academic & Research Management System (UARMS)
+- Academic and research workflow management platform  
+- Student, faculty, and research tracking system  
+- Designed for institutional scalability  
+
+🔗 https://github.com/jisan23051365/University-Academic-Research-Management-System-UARMS-
 
 ---
 
