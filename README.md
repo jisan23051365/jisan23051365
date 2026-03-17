@@ -1,15 +1,25 @@
-<h1 align="center">⚡ Jisan | Data Science Engineer</h1>
+<h1 align="center">⚡ Sameeul Khondoker Jisan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;Machine+Learning+Enthusiast;Python+Developer;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Science+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+AI;Data+Analytics+%7C+Statistical+Modeling;Building+Scalable+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 Profile
 
-Data-focused engineer specializing in **Machine Learning, Statistical Analysis, and Scalable System Design**.  
-I build structured, production-oriented solutions that transform raw data into **actionable intelligence**.
+Data-driven engineer specializing in:
+
+- **Data Science & Advanced Analytics**
+- **Machine Learning & Deep Learning**
+- **Artificial Intelligence Systems**
+- **Statistical Modeling & Data Engineering**
+
+I design and build **production-grade intelligent systems** that transform complex data into **high-impact decisions**.
 
 ---
 
@@ -22,16 +32,22 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ---
 
-### 📚 Libraries
+### 🧠 AI / ML / DL
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+---
+
+### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
 
 ---
 
-### 🛠️ Tools
+### ⚙️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -39,7 +55,7 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Intelligence
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -48,7 +64,7 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Dynamics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
@@ -56,7 +72,7 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Neural Activity Visualization
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake.svg" />
@@ -64,61 +80,49 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ---
 
-## 📌 Flagship Projects
-
-## 📌 Flagship Systems Portfolio
+## 🚀 Flagship Systems Portfolio
 
 ### 💳 Core Banking & Digital Wallet Management System
-- End-to-end banking system with digital wallet integration  
-- Account management, transactions, and financial operations  
-- Designed with secure and scalable architecture  
+- End-to-end financial ecosystem  
+- Secure transactions, account lifecycle, wallet integration  
+- Enterprise-grade architecture  
 
 🔗 https://github.com/jisan23051365/core-banking-digital-wallet-system
 
 ---
 
 ### 🤖 AI-Powered Financial Risk & Compliance System
-- Machine learning–driven risk detection and compliance monitoring  
-- Fraud detection, anomaly analysis, and decision support  
-- Built for intelligent financial governance  
+- ML-driven fraud detection & anomaly analysis  
+- Risk scoring and decision intelligence  
+- AI-based compliance automation  
 
 🔗 https://github.com/jisan23051365/ai-financial-risk-compliance-system
 
 ---
 
 ### 🏢 Enterprise Resource Analytics & Management System (ERAMS)
-- Enterprise-level system for resource planning and analytics  
-- Data-driven reporting and operational insights  
-- Structured for business intelligence workflows  
+- Business intelligence & enterprise analytics  
+- Resource optimization and reporting  
+- Data-driven operational control  
 
 🔗 https://github.com/jisan23051365/enterprise-resource-analytics-management-system
 
 ---
 
 ### 🏭 Industrial Manufacturing Production System
-- Production lifecycle management system  
-- Workflow optimization and operational tracking  
-- Designed for industrial-scale environments  
+- Production lifecycle & workflow optimization  
+- Industrial-scale process management  
+- Performance tracking system  
 
 🔗 https://github.com/jisan23051365/industrial-manufacturing-production-system
 
 ---
 
-### 🏥 National Hospital Management System
-- Healthcare system for patient, doctor, and resource management  
-- Appointment scheduling, medical records, reporting  
-- Built for efficient hospital operations  
+## 🎯 Current Direction
 
-🔗 https://github.com/jisan23051365/national-hospital-management-system
-
----
-
-### 🎓 University Academic & Research Management System (UARMS)
-- Academic and research workflow management platform  
-- Student, faculty, and research tracking system  
-- Designed for institutional scalability  
-
-🔗 https://github.com/jisan23051365/University-Academic-Research-Management-System-UARMS-
+- Engineering **AI-powered decision systems**
+- Building **production-level ML pipelines**
+- Advancing in **Deep Learning & Data Engineering**
 
 ---
 
@@ -135,12 +139,12 @@ I build structured, production-oriented solutions that transform raw data into *
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Engineering Philosophy
 
-> Build systems, not scripts  
-> Data over assumptions  
-> Precision over shortcuts  
+> Build intelligent systems, not just applications  
+> Let data drive decisions, not assumptions  
+> Optimize for scalability, clarity, and impact  
 
 ---
 
-<h3 align="center">🚀 Consistency • Discipline • Execution</h3>
+<h3 align="center">🚀 Data • Intelligence • Systems</h3>
