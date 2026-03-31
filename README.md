@@ -16,22 +16,18 @@
 
 ---
 
-<!-- ===================== PROFILE ===================== -->
-
 ## 🧠 Executive Profile
 
 Data Science Engineer specializing in:
 
-- **Artificial Intelligence (AI)**
-- **Machine Learning (ML) & Deep Learning (DL)**
-- **Advanced Data Analytics & Statistical Modeling**
-- **Scalable System Architecture & Data Engineering**
+- Artificial Intelligence (AI)
+- Machine Learning (ML) & Deep Learning (DL)
+- Advanced Data Analytics & Statistical Modeling
+- Scalable System Architecture & Data Engineering
 
-I engineer **production-grade intelligent systems** that convert raw data into **strategic, decision-ready intelligence**.
+I design and deploy **production-grade intelligent systems** that transform raw data into **decision-ready intelligence**.
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## ⚙️ Technology Stack
 
@@ -40,22 +36,16 @@ I engineer **production-grade intelligent systems** that convert raw data into *
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-
 ### 🧠 AI / ML / DL
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
----
 
 ### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
-
----
 
 ### ⚙️ Tools & Systems
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -65,13 +55,20 @@ I engineer **production-grade intelligent systems** that convert raw data into *
 
 ---
 
-<!-- ===================== STATS ===================== -->
-
 ## 📊 GitHub Intelligence Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+---
+
+## 📈 Performance Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight" />
 </p>
 
 ---
@@ -92,57 +89,52 @@ I engineer **production-grade intelligent systems** that convert raw data into *
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
 ## 🚀 Enterprise Systems Portfolio
 
 ### 💳 Core Banking & Digital Wallet Management System
-- Full-scale financial infrastructure system  
-- Secure transactions, account lifecycle, wallet integration  
-- Designed for high-availability financial environments  
+- High-availability financial infrastructure  
+- Secure transactions, wallet integration, lifecycle management  
+- Built for enterprise-grade scalability  
 
 🔗 https://github.com/jisan23051365/core-banking-digital-wallet-system
 
 ---
 
 ### 🤖 AI Financial Risk & Compliance System
-- Machine learning–driven fraud detection and anomaly analysis  
-- Risk scoring, behavioral analytics, compliance automation  
-- Decision intelligence for financial governance  
+- ML-driven fraud detection & anomaly analysis  
+- Risk scoring, behavioral analytics  
+- Regulatory compliance automation  
 
 🔗 https://github.com/jisan23051365/ai-financial-risk-compliance-system
 
 ---
 
 ### 🏢 Enterprise Resource Analytics & Management System (ERAMS)
-- Enterprise analytics and resource optimization platform  
-- Data-driven reporting and operational intelligence  
-- Designed for scalable business ecosystems  
+- Enterprise analytics & optimization platform  
+- Decision intelligence dashboards  
+- Scalable architecture for large organizations  
 
 🔗 https://github.com/jisan23051365/enterprise-resource-analytics-management-system
 
 ---
 
 ### 🏭 Industrial Manufacturing Production System
-- Industrial workflow and production lifecycle management  
-- Process optimization and performance tracking  
-- Built for manufacturing-scale environments  
+- Production lifecycle & workflow automation  
+- Performance tracking & optimization  
+- Designed for industrial-scale deployment  
 
 🔗 https://github.com/jisan23051365/industrial-manufacturing-production-system
 
 ---
 
-<!-- ===================== CURRENT ===================== -->
-
 ## 🎯 Strategic Focus
 
-- Engineering **AI-powered enterprise systems**
-- Building **production-level ML pipelines**
-- Advancing in **Deep Learning & Data Engineering ecosystems**
+- AI-powered enterprise systems  
+- Production-level ML pipelines  
+- Advanced Deep Learning architectures  
+- Data Engineering ecosystems  
 
 ---
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Professional Network
 
@@ -156,8 +148,6 @@ I engineer **production-grade intelligent systems** that convert raw data into *
 </p>
 
 ---
-
-<!-- ===================== FOOTER ===================== -->
 
 ## ⚡ Engineering Doctrine
 
