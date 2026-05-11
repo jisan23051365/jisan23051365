@@ -1,24 +1,4 @@
-<!-- ======================== FUTURISTIC HEADER ======================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00f7ff&height=250&section=header&text=Sameeul%20Khondoker%20Jisan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20|%20AI%20Researcher%20|%20ML%20Developer&descAlignY=60"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Developer;Building+Intelligent+Systems"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&style=for-the-badge&color=00f7ff"/>
-
-  <img src="https://img.shields.io/github/followers/jisan23051365?style=for-the-badge&color=00f7ff&labelColor=1c1c1c"/>
-
-  <img src="https://img.shields.io/github/stars/jisan23051365?style=for-the-badge&color=00f7ff&labelColor=1c1c1c"/>
-</p>
-
----
-
-# 🧠 SYSTEM PROFILE
+## 🧠 About Me
 
 ```python
 class SameeulKhondokerJisan:
@@ -27,7 +7,7 @@ class SameeulKhondokerJisan:
 
         self.role = "Data Science Engineer"
 
-        self.specialization = [
+        self.focus = [
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
@@ -36,221 +16,13 @@ class SameeulKhondokerJisan:
             "Enterprise Systems"
         ]
 
-        self.languages = [
-            "Python",
-            "Java",
-            "SQL",
-            "R",
-            "C/C++"
-        ]
-
-    def mission(self):
-        return "Transforming Data Into Intelligence 🚀"
+    def vision(self):
+        return "Transforming complex data into intelligent, scalable solutions."
 ```
 
----
+In a world increasingly shaped by data and intelligent automation, I focus on building systems that transform complexity into clarity. My work combines machine learning, analytics, and scalable engineering to create solutions that are not only technically advanced, but also practical, efficient, and impactful.
 
-# ⚡ TECH STACK
+I am particularly interested in intelligent enterprise systems, predictive modeling, and AI-driven technologies that enhance decision-making and unlock meaningful insights from data. My approach emphasizes clean architecture, reliable performance, and forward-thinking design — creating systems that are built not only for today’s challenges, but for tomorrow’s possibilities.
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,js,html,css,mysql,postgresql,tensorflow,pytorch,spring,git,github,vscode"/>
-
-</p>
-
----
-
-# 📊 DATA SCIENCE TOOLKIT
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-## 💳 Core Banking & Digital Wallet System
-
-✔️ Spring Boot  
-✔️ REST APIs  
-✔️ Secure Transactions  
-✔️ Enterprise Architecture  
-✔️ FinTech Infrastructure  
-
-</td>
-
-<td width="50%">
-
-## 🤖 Finzy — AI Finance System
-
-✔️ Gemini AI  
-✔️ Expense Analytics  
-✔️ AI Insights  
-✔️ Smart Budgeting  
-✔️ Financial Automation  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🧠 LLM Code Review Assistant
-
-✔️ CodeLlama  
-✔️ Bug Detection  
-✔️ PR Analysis  
-✔️ AI Code Review  
-✔️ Anti-Pattern Detection  
-
-</td>
-
-<td width="50%">
-
-## 🚍 AI Transport Delay Prediction
-
-✔️ Machine Learning  
-✔️ Traffic Forecasting  
-✔️ Weather Analytics  
-✔️ Smart Mobility  
-✔️ Urban Intelligence  
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jisan23051365&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🎓 EDUCATION
-
-🎓 B.Sc. in Software Engineering (Major in Data Science)  
-🏛️ Daffodil International University  
-
----
-
-# 📜 CERTIFICATIONS
-
-🏅 IBM Data Science Professional Certificate  
-🏅 IBM AI Engineering Professional Certificate  
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="mailto:mrkhondokar.prof@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/mrkhondokar504">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/jisan23051365">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# ⚡ CURRENT FOCUS
-
-```yaml
-Learning:
-  - Advanced LLM Systems
-  - Generative AI
-  - AI Agents
-  - Scalable ML Infrastructure
-
-Building:
-  - Enterprise AI Systems
-  - Financial Intelligence Platforms
-  - Predictive Analytics Solutions
-```
-
----
-
-# 🧬 ENGINEERING PHILOSOPHY
-
-```text
-Systems over scripts
-Intelligence over assumptions
-Scalability over shortcuts
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:004e92,100:000428&height=150&section=footer"/>
-</p>
-
-<h3 align="center">🚀 DATA • INTELLIGENCE • AI • SYSTEMS 🚀</h3>
+With a strong foundation in software engineering and data science, I aim to bridge the gap between innovation and usability through modern, intelligent technologies.
+'
