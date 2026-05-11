@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Developer;Building+Scalable+Intelligent+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Developer;Building+Intelligent+Systems"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&style=for-the-badge&color=00f7ff"/>
+
+  <img src="https://img.shields.io/github/followers/jisan23051365?style=for-the-badge&color=00f7ff&labelColor=1c1c1c"/>
+
+  <img src="https://img.shields.io/github/stars/jisan23051365?style=for-the-badge&color=00f7ff&labelColor=1c1c1c"/>
 </p>
 
 ---
@@ -28,7 +36,7 @@ class SameeulKhondokerJisan:
             "Enterprise Systems"
         ]
 
-        self.language = [
+        self.languages = [
             "Python",
             "Java",
             "SQL",
@@ -42,7 +50,7 @@ class SameeulKhondokerJisan:
 
 ---
 
-# ⚡ NEURAL TECH STACK
+# ⚡ TECH STACK
 
 <p align="center">
 
@@ -68,7 +76,7 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 🚀 FEATURED AI PROJECTS
+# 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -89,10 +97,10 @@ class SameeulKhondokerJisan:
 ## 🤖 Finzy — AI Finance System
 
 ✔️ Gemini AI  
-✔️ Smart Budgeting  
 ✔️ Expense Analytics  
-✔️ Financial Insights  
-✔️ AI Automation  
+✔️ AI Insights  
+✔️ Smart Budgeting  
+✔️ Financial Automation  
 
 </td>
 </tr>
@@ -105,8 +113,8 @@ class SameeulKhondokerJisan:
 ✔️ CodeLlama  
 ✔️ Bug Detection  
 ✔️ PR Analysis  
-✔️ Anti-Pattern Detection  
 ✔️ AI Code Review  
+✔️ Anti-Pattern Detection  
 
 </td>
 
@@ -126,13 +134,15 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 📈 GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -141,7 +151,19 @@ class SameeulKhondokerJisan:
 # 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -149,15 +171,9 @@ class SameeulKhondokerJisan:
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
----
+<img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake-dark.svg"/>
 
-# 📊 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -165,8 +181,24 @@ class SameeulKhondokerJisan:
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jisan23051365&theme=algolia&no-frame=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jisan23051365&theme=algolia&no-frame=true&margin-w=10"/>
+
 </p>
+
+---
+
+# 🎓 EDUCATION
+
+🎓 B.Sc. in Software Engineering (Major in Data Science)  
+🏛️ Daffodil International University  
+
+---
+
+# 📜 CERTIFICATIONS
+
+🏅 IBM Data Science Professional Certificate  
+🏅 IBM AI Engineering Professional Certificate  
 
 ---
 
