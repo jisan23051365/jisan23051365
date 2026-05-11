@@ -1,61 +1,48 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">⚡ Sameeul Khondoker Jisan ⚡</h1>
+<!-- ======================== FUTURISTIC HEADER ======================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Science+Engineer;AI+%7C+Machine+Learning+%7C+Deep+Learning;Generative+AI+Enthusiast;Building+Intelligent+Enterprise+Systems;Transforming+Data+Into+Intelligence" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00f7ff&height=250&section=header&text=Sameeul%20Khondoker%20Jisan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Engineer%20|%20AI%20Researcher%20|%20ML%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jisan23051365">
-    <img src="https://img.shields.io/github/followers/jisan23051365?label=Followers&style=for-the-badge&color=00f7ff"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=Profile+Views&style=for-the-badge&color=00f7ff"/>
-
-  <img src="https://img.shields.io/github/stars/jisan23051365?style=for-the-badge&color=00f7ff"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00f7ff&height=160&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence;Machine+Learning+Engineer;Deep+Learning+Explorer;Generative+AI+Developer;Building+Scalable+Intelligent+Systems"/>
 </p>
 
 ---
 
-# 🧠 About Me
+# 🧠 SYSTEM PROFILE
 
 ```python
 class SameeulKhondokerJisan:
 
     def __init__(self):
+
         self.role = "Data Science Engineer"
-        self.focus = [
+
+        self.specialization = [
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
             "Generative AI",
-            "Data Analytics",
+            "Predictive Analytics",
             "Enterprise Systems"
         ]
 
+        self.language = [
+            "Python",
+            "Java",
+            "SQL",
+            "R",
+            "C/C++"
+        ]
+
     def mission(self):
-        return "Transforming raw data into intelligent scalable solutions."
+        return "Transforming Data Into Intelligence 🚀"
 ```
-
-🎓 B.Sc. in Software Engineering (Major in Data Science)  
-🏛️ Daffodil International University  
-
-🚀 Passionate about:
-- AI-Powered Systems
-- Predictive Modeling
-- Intelligent Automation
-- Data Engineering
-- Large Language Models (LLMs)
-- Scalable Enterprise Architecture
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ NEURAL TECH STACK
 
 <p align="center">
 
@@ -65,43 +52,47 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 📊 Data Science & AI Stack
+# 📊 DATA SCIENCE TOOLKIT
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED AI PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
-### 💳 Core Banking & Digital Wallet System
+## 💳 Core Banking & Digital Wallet System
+
 ✔️ Spring Boot  
 ✔️ REST APIs  
 ✔️ Secure Transactions  
 ✔️ Enterprise Architecture  
+✔️ FinTech Infrastructure  
 
 </td>
 
 <td width="50%">
 
-### 🤖 Finzy — AI Finance System
+## 🤖 Finzy — AI Finance System
+
 ✔️ Gemini AI  
-✔️ Expense Analytics  
 ✔️ Smart Budgeting  
-✔️ AI Insights  
+✔️ Expense Analytics  
+✔️ Financial Insights  
+✔️ AI Automation  
 
 </td>
 </tr>
@@ -109,21 +100,25 @@ class SameeulKhondokerJisan:
 <tr>
 <td width="50%">
 
-### 🧠 LLM Code Review Assistant
+## 🧠 LLM Code Review Assistant
+
 ✔️ CodeLlama  
 ✔️ Bug Detection  
 ✔️ PR Analysis  
-✔️ Quality Automation  
+✔️ Anti-Pattern Detection  
+✔️ AI Code Review  
 
 </td>
 
 <td width="50%">
 
-### 🚍 AI Delay Prediction System
-✔️ ML Forecasting  
-✔️ Traffic Analytics  
-✔️ Weather Intelligence  
-✔️ Urban Mobility  
+## 🚍 AI Transport Delay Prediction
+
+✔️ Machine Learning  
+✔️ Traffic Forecasting  
+✔️ Weather Analytics  
+✔️ Smart Mobility  
+✔️ Urban Intelligence  
 
 </td>
 </tr>
@@ -131,17 +126,19 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true&background=0D1117"/>
@@ -149,7 +146,7 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake-dark.svg"/>
@@ -157,7 +154,7 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 📊 Activity Graph
+# 📊 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
@@ -165,17 +162,15 @@ class SameeulKhondokerJisan:
 
 ---
 
-# 🏆 Achievements
+# 🏆 GITHUB TROPHIES
 
-🏅 IBM Data Science Professional Certificate  
-🏅 IBM AI Engineering Professional Certificate  
-🥇 Top Campus Ambassador — GoEdu  
-🎯 Volunteer — DIU Job Utsob 2024 & 2025  
-🤖 National Robotics Championship 2025 Participant  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jisan23051365&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -195,7 +190,24 @@ class SameeulKhondokerJisan:
 
 ---
 
-# ⚡ Engineering Philosophy
+# ⚡ CURRENT FOCUS
+
+```yaml
+Learning:
+  - Advanced LLM Systems
+  - Generative AI
+  - AI Agents
+  - Scalable ML Infrastructure
+
+Building:
+  - Enterprise AI Systems
+  - Financial Intelligence Platforms
+  - Predictive Analytics Solutions
+```
+
+---
+
+# 🧬 ENGINEERING PHILOSOPHY
 
 ```text
 Systems over scripts
@@ -206,7 +218,7 @@ Scalability over shortcuts
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:004e92,100:000428&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:004e92,100:000428&height=150&section=footer"/>
 </p>
 
-<h3 align="center">🚀 Data • Intelligence • AI • Systems 🚀</h3>
+<h3 align="center">🚀 DATA • INTELLIGENCE • AI • SYSTEMS 🚀</h3>
