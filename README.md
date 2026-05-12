@@ -1,88 +1,68 @@
 <table>
 <tr>
 
-<td width="38%" valign="top">
+<td width="30%" valign="top">
 
 <div align="center">
 
 <img 
 src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="100%"
+width="260"
 />
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=17&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=260&height=40&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;LLM+Engineer+🚀"/>
-
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=15&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=240&height=32&lines=AI+Engineer+🤖;LLM+Engineer+🚀"/>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="36"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="32"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="36"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github" width="36"/>
+<img src="https://skillicons.dev/icons?i=github" width="32"/>
 </a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jisan23051365&label=VIEWS&color=00F7FF&style=flat"/>
 
 </div>
 
 ---
 
-# 📞 CONTACT
-
 ```yaml
-Email:
-  mrkhondokar.prof@gmail.com
+🎓 B.Sc. in Software Engineering
+📊 Major in Data Science
+🏫 Daffodil International University
+📈 CGPA: 3.55 / 4.00
 
-Phone:
-  +8801767766680
+📧 mrkhondokar.prof@gmail.com
+📱 +8801767766680
 
-LinkedIn:
-  linkedin.com/in/mrkhondokar504
-
-GitHub:
-  github.com/jisan23051365
+🏆 IBM Data Science Certified
+🏆 IBM AI Engineering Certified
 ```
 
 ---
 
-# 🎓 EDUCATION
-
 ```yaml
-B.Sc. in Software Engineering
-Major: Data Science
-CGPA: 3.55 / 4.00
+💼 Experience
 
-Daffodil International University
+• Data Science Intern
+  SaiKet Systems
 
-HSC GPA: 4.33 / 5.00
-SSC GPA: 3.89 / 5.00
-```
+• Video Editor & Content Creator
+  GoEdu
 
----
-
-# 🏆 CERTIFICATIONS
-
-```yaml
-IBM Data Science Professional
-
-IBM AI Engineering Professional
-
-IELTS Overall Band:
-7.0
+• Volunteer
+  CDC-DIU
 ```
 
 </td>
 
-<td width="62%" valign="top">
+<td width="70%" valign="top">
 
 # 👨‍💻 ABOUT ME
 
@@ -94,7 +74,6 @@ class SameeulKhondokerJisan:
         self.roles = [
             "AI Engineer",
             "Data Scientist",
-            "Generative AI Explorer",
             "ML Engineer"
         ]
 
@@ -104,37 +83,31 @@ class SameeulKhondokerJisan:
             "Deep Learning",
             "Generative AI",
             "LLM Engineering",
-            "Predictive Analytics",
-            "Backend Engineering",
-            "Data Visualization"
+            "Predictive Analytics"
         ]
 
         self.current_focus = [
             "Enterprise AI Systems",
-            "Financial Intelligence Platforms",
+            "Financial Intelligence",
             "Scalable ML Pipelines",
-            "AI Automation",
-            "LLM Applications"
+            "AI Automation"
         ]
 
-        self.skills = {
+        self.tech_stack = {
 
             "Languages": [
                 "Python",
                 "Java",
                 "SQL",
-                "R",
                 "JavaScript",
-                "C/C++"
+                "R"
             ],
 
             "AI/ML": [
                 "TensorFlow",
                 "PyTorch",
                 "Scikit-Learn",
-                "XGBoost",
-                "NLP",
-                "Generative AI"
+                "XGBoost"
             ],
 
             "Backend": [
@@ -142,36 +115,24 @@ class SameeulKhondokerJisan:
                 "REST APIs",
                 "PostgreSQL",
                 "MySQL"
-            ],
-
-            "Tools": [
-                "Docker",
-                "Git",
-                "GitHub",
-                "Postman",
-                "Jupyter",
-                "Prisma",
-                "Supabase"
             ]
         }
 
         self.projects = [
-            "Core Banking & Digital Wallet System",
-            "AI Financial Risk Platform",
+            "Core Banking Platform",
+            "AI Financial Risk System",
             "Finzy AI Finance Platform",
-            "LLM Code Review Assistant",
-            "AI Transport Delay Prediction"
+            "LLM Code Review Assistant"
         ]
 
         self.research = [
-            "Carbon Footprint Prediction using AI",
-            "ML Performance on Incomplete Data"
+            "Carbon Footprint Prediction",
+            "ML Performance Analysis"
         ]
 
         self.motto = (
             "Designing futuristic intelligent systems "
-            "powered by AI, scalable engineering, "
-            "and real-world problem solving."
+            "powered by AI and scalable engineering."
         )
 
     def initialize(self):
@@ -189,62 +150,14 @@ me = SameeulKhondokerJisan()
 
 ---
 
-# ⚡ CURRENT MISSION
-
 ```yaml
-🤖 Building enterprise-grade AI systems
-📊 Transforming raw data into intelligent insights
+⚡ Building enterprise AI systems
+📊 Turning data into intelligent insights
 🧠 Exploring Generative AI & LLM ecosystems
-⚙️ Engineering scalable backend infrastructures
-🚀 Developing production-ready ML applications
-🔬 Researching intelligent prediction systems
-```
-
----
-
-# 💼 EXPERIENCE
-
-```yaml
-Data Science Intern:
-  SaiKet Systems
-
-Video Editor & Content Creator:
-  GoEdu
-
-Volunteer:
-  CDC-DIU
-
-Data Entry Operator:
-  Golden Harvest InfoTech
-```
-
----
-
-# 🚀 FEATURED PROJECTS
-
-```yaml
-Core Banking & Digital Wallet Management System
-
-AI Financial Risk & Compliance System
-
-Finzy — AI Finance Platform
-
-LLM-Powered Code Review Assistant
-
-AI-Based Public Transport Delay Prediction
-
-Mini Search Engine for Local File Indexing
+🚀 Developing production-grade AI applications
 ```
 
 </td>
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer&text=Building%20Intelligent%20Systems%20🚀&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
