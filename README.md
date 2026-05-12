@@ -178,6 +178,7 @@ me = SameeulKhondokerJisan()
 
 ---
 
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -189,8 +190,6 @@ me = SameeulKhondokerJisan()
 <br><br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight&utcOffset=6"/>
 
 </div>
 
