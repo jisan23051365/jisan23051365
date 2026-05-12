@@ -93,17 +93,25 @@ Mission :
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRpcTZla3h3M2x0MXVxZWRsZXM2M3N6MXU5MnB4dTRkbm9jcm0yZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="45"> GITHUB ANALYTICS
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ4dW42aDFpM2FtbHc5Z2E2b3RjbTZ6N2w0d2k4ZmM4ZXFsaW5vYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="50"> GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jisan23051365&theme=tokyonight&hide_border=true&background=00000000"/>
+<br><br>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=00F7FF&title_color=A855F7&text_color=FFFFFF"/>
 
 <br><br>
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight"/>
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight&utcOffset=6"/>
 
 </div>
 
