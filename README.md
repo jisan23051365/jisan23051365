@@ -73,7 +73,18 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,cpp,docker,git,github,vscode,linux,postman,nextjs,r&theme=dark"/>
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="72"/><br><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="72"/><br><br>
+<b>TensorFlow</b>
+</td>
 
 </div>
 
