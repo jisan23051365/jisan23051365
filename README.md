@@ -93,7 +93,7 @@ Mission :
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ4dW42aDFpM2FtbHc5Z2E2b3RjbTZ6N2w0d2k4ZmM4ZXFsaW5vYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="50"> GITHUB ANALYTICS
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40"/> GITHUB ANALYTICS
 
 <div align="center">
 
