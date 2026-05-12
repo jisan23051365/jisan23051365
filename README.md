@@ -1,31 +1,31 @@
 <table>
 <tr>
 
-<td width="32%" valign="top">
+<td width="38%" valign="top">
 
 <div align="center">
 
 <img 
 src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="210"
+width="100%"
 />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=240&height=35&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;LLM+Engineer+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=17&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=260&height=40&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;LLM+Engineer+🚀"/>
 
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="34"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="36"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="36"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github" width="34"/>
+<img src="https://skillicons.dev/icons?i=github" width="36"/>
 </a>
 
 <br><br>
@@ -57,21 +57,14 @@ GitHub:
 # 🎓 EDUCATION
 
 ```yaml
-B.Sc. in Software Engineering:
-  University:
-    Daffodil International University
+B.Sc. in Software Engineering
+Major: Data Science
+CGPA: 3.55 / 4.00
 
-  Major:
-    Data Science
+Daffodil International University
 
-  CGPA:
-    3.55 / 4.00
-
-HSC:
-  GPA: 4.33 / 5.00
-
-SSC:
-  GPA: 3.89 / 5.00
+HSC GPA: 4.33 / 5.00
+SSC GPA: 3.89 / 5.00
 ```
 
 ---
@@ -83,13 +76,13 @@ IBM Data Science Professional
 
 IBM AI Engineering Professional
 
-IELTS Band:
-  Overall 7.0
+IELTS Overall Band:
+7.0
 ```
 
 </td>
 
-<td width="68%" valign="top">
+<td width="62%" valign="top">
 
 # 👨‍💻 ABOUT ME
 
@@ -213,20 +206,16 @@ me = SameeulKhondokerJisan()
 
 ```yaml
 Data Science Intern:
-  Company:
-    SaiKet Systems
+  SaiKet Systems
 
 Video Editor & Content Creator:
-  Company:
-    GoEdu
+  GoEdu
 
 Volunteer:
-  Organization:
-    CDC-DIU
+  CDC-DIU
 
 Data Entry Operator:
-  Company:
-    Golden Harvest InfoTech
+  Golden Harvest InfoTech
 ```
 
 ---
