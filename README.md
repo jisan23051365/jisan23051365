@@ -196,11 +196,7 @@ me = SameeulKhondokerJisan()
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight&utcOffset=6"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisan23051365&theme=tokyonight"/>
-
 <br><br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
