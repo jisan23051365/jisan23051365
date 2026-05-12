@@ -16,10 +16,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
