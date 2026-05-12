@@ -1,23 +1,31 @@
+<table>
+<tr>
+
+<td width="32%" valign="top">
+
 <div align="center">
 
-<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="220"/>
+<img 
+src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
+width="210"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&height=45&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;BUILDING+INTELLIGENT+SYSTEMS+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=240&height=35&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;LLM+Engineer+🚀"/>
 
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="36"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="34"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="36"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github" width="36"/>
+<img src="https://skillicons.dev/icons?i=github" width="34"/>
 </a>
 
 <br><br>
@@ -28,75 +36,6 @@
 
 ---
 
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
-# 👨‍💻 ABOUT ME
-
-```python
-class SameeulKhondokerJisan:
-
-    def __init__(self):
-
-        self.roles = [
-            "AI Engineer",
-            "Data Science Explorer",
-            "ML Enthusiast"
-        ]
-
-        self.specialization = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "LLM Engineering"
-        ]
-
-        self.current_focus = [
-            "Enterprise AI Systems",
-            "Financial Intelligence",
-            "Scalable ML Pipelines"
-        ]
-
-        self.motto = (
-            "Building futuristic intelligent "
-            "systems powered by AI."
-        )
-
-    def initialize(self):
-        return "AI systems online 🚀"
-
-
-me = SameeulKhondokerJisan()
-```
-
----
-
-# 🛠️ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,docker,git,github,vscode,linux,postman,nextjs&theme=dark"/>
-
-</div>
-
----
-
-# ⚡ CURRENT MISSION
-
-```yaml
-🤖 Building enterprise AI systems
-📊 Transforming data into intelligence
-🧠 Exploring Generative AI & LLMs
-🚀 Developing production-grade AI apps
-```
-
-</td>
-
-<td valign="top" width="50%">
-
 # 📞 CONTACT
 
 ```yaml
@@ -105,9 +44,6 @@ Email:
 
 Phone:
   +8801767766680
-
-Website:
-  www.sameeul.combd
 
 LinkedIn:
   linkedin.com/in/mrkhondokar504
@@ -121,40 +57,194 @@ GitHub:
 # 🎓 EDUCATION
 
 ```yaml
-B.Sc. in Software Engineering
-Major: Data Science
-CGPA: 3.55 / 4.00
+B.Sc. in Software Engineering:
+  University:
+    Daffodil International University
 
-Daffodil International University
+  Major:
+    Data Science
+
+  CGPA:
+    3.55 / 4.00
+
+HSC:
+  GPA: 4.33 / 5.00
+
+SSC:
+  GPA: 3.89 / 5.00
 ```
 
 ---
 
-# 💻 EXPERIENCE
+# 🏆 CERTIFICATIONS
 
 ```yaml
-Data Science Intern
-SaiKet Systems
+IBM Data Science Professional
 
-Video Editor & Content Creator
-GoEdu
+IBM AI Engineering Professional
 
-Volunteer
-CDC-DIU
+IELTS Band:
+  Overall 7.0
+```
+
+</td>
+
+<td width="68%" valign="top">
+
+# 👨‍💻 ABOUT ME
+
+```python
+class SameeulKhondokerJisan:
+
+    def __init__(self):
+
+        self.roles = [
+            "AI Engineer",
+            "Data Scientist",
+            "Generative AI Explorer",
+            "ML Engineer"
+        ]
+
+        self.specialization = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "LLM Engineering",
+            "Predictive Analytics",
+            "Backend Engineering",
+            "Data Visualization"
+        ]
+
+        self.current_focus = [
+            "Enterprise AI Systems",
+            "Financial Intelligence Platforms",
+            "Scalable ML Pipelines",
+            "AI Automation",
+            "LLM Applications"
+        ]
+
+        self.skills = {
+
+            "Languages": [
+                "Python",
+                "Java",
+                "SQL",
+                "R",
+                "JavaScript",
+                "C/C++"
+            ],
+
+            "AI/ML": [
+                "TensorFlow",
+                "PyTorch",
+                "Scikit-Learn",
+                "XGBoost",
+                "NLP",
+                "Generative AI"
+            ],
+
+            "Backend": [
+                "Spring Boot",
+                "REST APIs",
+                "PostgreSQL",
+                "MySQL"
+            ],
+
+            "Tools": [
+                "Docker",
+                "Git",
+                "GitHub",
+                "Postman",
+                "Jupyter",
+                "Prisma",
+                "Supabase"
+            ]
+        }
+
+        self.projects = [
+            "Core Banking & Digital Wallet System",
+            "AI Financial Risk Platform",
+            "Finzy AI Finance Platform",
+            "LLM Code Review Assistant",
+            "AI Transport Delay Prediction"
+        ]
+
+        self.research = [
+            "Carbon Footprint Prediction using AI",
+            "ML Performance on Incomplete Data"
+        ]
+
+        self.motto = (
+            "Designing futuristic intelligent systems "
+            "powered by AI, scalable engineering, "
+            "and real-world problem solving."
+        )
+
+    def initialize(self):
+        return "AI systems initialized 🚀"
+
+
+me = SameeulKhondokerJisan()
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,docker,git,github,vscode,linux,postman,nextjs&theme=dark"/>
+
+</div>
+
+---
+
+# ⚡ CURRENT MISSION
+
+```yaml
+🤖 Building enterprise-grade AI systems
+📊 Transforming raw data into intelligent insights
+🧠 Exploring Generative AI & LLM ecosystems
+⚙️ Engineering scalable backend infrastructures
+🚀 Developing production-ready ML applications
+🔬 Researching intelligent prediction systems
 ```
 
 ---
 
-# 🚀 PROJECTS
+# 💼 EXPERIENCE
 
 ```yaml
-Core Banking & Digital Wallet System
+Data Science Intern:
+  Company:
+    SaiKet Systems
 
-AI Financial Risk System
+Video Editor & Content Creator:
+  Company:
+    GoEdu
 
-Finzy AI Finance Platform
+Volunteer:
+  Organization:
+    CDC-DIU
 
-LLM Code Review Assistant
+Data Entry Operator:
+  Company:
+    Golden Harvest InfoTech
+```
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+```yaml
+Core Banking & Digital Wallet Management System
+
+AI Financial Risk & Compliance System
+
+Finzy — AI Finance Platform
+
+LLM-Powered Code Review Assistant
+
+AI-Based Public Transport Delay Prediction
+
+Mini Search Engine for Local File Indexing
 ```
 
 </td>
@@ -166,10 +256,6 @@ LLM Code Review Assistant
 
 <div align="center">
 
-```text
-Systems over scripts ⚡
-Intelligence over assumptions 🧠
-Innovation through AI & data 🚀
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer&text=Building%20Intelligent%20Systems%20🚀&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
