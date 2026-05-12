@@ -1,7 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
+
 <td width="58%">
 
 ```python
@@ -9,38 +10,128 @@ class SameeulKhondokerJisan:
 
     def __init__(self):
 
-        self.username = "jisan23051365"
+        # ==============================
+        # CORE INFORMATION
+        # ==============================
+
+        self.name = "Sameeul Khondoker Jisan"
 
         self.role = [
             "Aspiring Data Scientist",
             "AI Engineer",
-            "ML Enthusiast"
+            "Machine Learning Enthusiast"
         ]
+
+        self.education = {
+            "degree": "B.Sc. in Software Engineering",
+            "major": "Data Science",
+            "university": "Daffodil International University",
+            "cgpa": "3.55 / 4.00"
+        }
+
+        # ==============================
+        # SPECIALIZATION
+        # ==============================
 
         self.specialization = [
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
             "Generative AI",
-            "LLM Applications"
+            "LLM Applications",
+            "Predictive Analytics",
+            "Backend Engineering",
+            "Enterprise AI Systems"
         ]
+
+        # ==============================
+        # CURRENT FOCUS
+        # ==============================
 
         self.current_focus = [
-            "Enterprise AI Systems",
-            "Financial Intelligence",
+            "AI Financial Risk Systems",
+            "Core Banking Platforms",
             "Scalable ML Pipelines",
-            "Backend Engineering"
+            "Enterprise AI Architecture",
+            "Data Engineering",
+            "LLM Engineering"
         ]
 
-        self.learning = [
-            "Advanced AI",
-            "LLM Engineering",
-            "System Design",
-            "Data Engineering"
+        # ==============================
+        # TECH STACK
+        # ==============================
+
+        self.languages = [
+            "Python",
+            "Java",
+            "SQL",
+            "R",
+            "C/C++",
+            "JavaScript"
         ]
 
-    def motto(self):
-        return "Build. Learn. Innovate."
+        self.ai_ml_stack = [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-Learn",
+            "XGBoost",
+            "NLP",
+            "Deep Learning"
+        ]
+
+        self.backend_stack = [
+            "Spring Boot",
+            "REST APIs",
+            "Hibernate",
+            "PostgreSQL",
+            "MySQL"
+        ]
+
+        self.tools = [
+            "Git",
+            "GitHub",
+            "Docker",
+            "VS Code",
+            "Postman",
+            "Jupyter Notebook"
+        ]
+
+        # ==============================
+        # RESEARCH & PROJECTS
+        # ==============================
+
+        self.research = [
+            "Carbon Footprint Prediction using AI",
+            "Machine Learning with Incomplete Data"
+        ]
+
+        self.projects = [
+            "Core Banking & Digital Wallet System",
+            "AI Financial Risk & Compliance System",
+            "Finzy AI Finance Platform",
+            "LLM-Powered Code Review Assistant",
+            "AI Transport Delay Prediction System"
+        ]
+
+        # ==============================
+        # CERTIFICATIONS
+        # ==============================
+
+        self.certifications = [
+            "IBM Data Science Professional Certificate",
+            "IBM AI Engineering Professional Certificate"
+        ]
+
+        # ==============================
+        # MOTTO
+        # ==============================
+
+        self.motto = (
+            "Building intelligent systems that create real-world impact."
+        )
+
+    def say_hi(self):
+        return "Welcome to my GitHub profile 🚀"
 
 
 me = SameeulKhondokerJisan()
@@ -50,7 +141,17 @@ me = SameeulKhondokerJisan()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,mysql,postgres,docker,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,mysql,postgres,docker,git,github,vscode,linux,postman,js,react,nextjs&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-071B2A?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-0B2D45?style=for-the-badge&logo=pytorch"/>
+
+<img src="https://img.shields.io/badge/LLM%20Engineering-5B21B6?style=for-the-badge"/>
 
 </div>
 
@@ -60,14 +161,33 @@ me = SameeulKhondokerJisan()
 
 <img 
 src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="280"
+width="290"
 />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=320&height=80&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;Building+Intelligent+Systems+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=340&height=90&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;Building+Intelligent+Systems+🚀"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/jisan23051365">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/mrkhondokar504">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mrkhondokar.prof@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -75,23 +195,43 @@ width="280"
 
 <div align="center">
 
-### ⚡ Current Mission
+# ⚡ Current Mission
 
 </div>
 
-```text
-🤖 Building AI-powered enterprise systems
-📊 Transforming raw data into intelligent insights
+```yaml
+🤖 Building enterprise-grade AI systems
+📊 Transforming raw data into actionable intelligence
 🧠 Exploring Generative AI & LLM engineering
 ⚙️ Designing scalable backend architectures
 🚀 Developing production-ready ML applications
+🔬 Researching intelligent prediction systems
+💡 Solving real-world problems using AI & data
 ```
 
 ---
 
 <div align="center">
 
-### 💡 Engineering Philosophy
+# 🏆 Highlights
+
+</div>
+
+```diff
++ IBM Data Science Professional Certified
++ IBM AI Engineering Professional Certified
++ Data Science Intern at SaiKet Systems
++ Contributor at DIU CSE Fest 2025
++ National Robotics Championship Participant
++ Top Campus Ambassador at GoEdu
++ AI & Enterprise System Builder
+```
+
+---
+
+<div align="center">
+
+# 💡 Engineering Philosophy
 
 </div>
 
@@ -100,4 +240,5 @@ Systems over scripts
 Intelligence over assumptions
 Scalability over shortcuts
 Innovation through AI and data
+Continuous learning drives intelligent engineering
 ```
