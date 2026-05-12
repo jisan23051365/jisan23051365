@@ -1,298 +1,164 @@
-````md
-<!-- ===================================================== -->
-<!-- ================== CYBERPUNK HEADER ================= -->
-<!-- ===================================================== -->
+<!-- ===================== HEADER ===================== -->
 
-<div align="center">
+<h1 align="center">⚡ Sameeul Khondoker Jisan</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0b1f3a,50:102d4e,75:0b1f3a,100:050816&text=Sameeul%20Khondoker%20Jisan&fontColor=00F7FF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20Researcher&descAlignY=58"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Science+Engineer;AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analytics+%7C+Statistical+Modeling;Building+Scalable+Intelligent+Systems" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=Profile+Views&color=00f7ff&style=flat" />
+</p>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Building+Scalable+Enterprise+Intelligent+Systems;AI-Powered+Analytics+%7C+Research+%7C+Innovation;Backend+Architecture+%7C+LLMs+%7C+Data+Engineering"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Executive Profile
 
-<img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+Data Science Engineer specializing in:
 
-<img src="https://img.shields.io/github/followers/jisan23051365?logo=github&style=for-the-badge&color=00F7FF"/>
+- Artificial Intelligence (AI)
+- Machine Learning (ML) & Deep Learning (DL)
+- Advanced Data Analytics & Statistical Modeling
+- Scalable System Architecture & Data Engineering
 
-<img src="https://img.shields.io/github/stars/jisan23051365?style=for-the-badge&color=00F7FF"/>
-
-</div>
-
----
-
-# ⚡ SYSTEM PROFILE
-
-```yaml
-Name: Sameeul Khondoker Jisan
-Role: Data Scientist & AI Engineer
-Specialization:
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Enterprise Backend Systems
-  - Data Engineering
-  - Statistical Modeling
-
-Focus:
-  - Production-Grade AI Systems
-  - Enterprise Architecture
-  - Intelligent Analytics
-  - Scalable ML Infrastructure
-````
+I design and deploy **production-grade intelligent systems** that transform raw data into **decision-ready intelligence**.
 
 ---
 
-# 🧠 NEURAL TECHNOLOGY STACK
+## ⚙️ Technology Stack
 
-<div align="center">
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r,js,html,css,spring,mysql,postgres,tensorflow,pytorch,git,github,vscode,idea,pycharm,linux&perline=10"/>
+### 🧠 AI / ML / DL
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
-</div>
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
 
----
-
-# 🚀 AI / DATA SCIENCE ECOSYSTEM
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Scikit_Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLM_Systems-00F7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Engineering-0A66C2?style=for-the-badge"/>
-
-</div>
+### ⚙️ Tools & Systems
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
-# 📊 GITHUB ANALYTICS CORE
+## 📊 GitHub Intelligence Metrics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
 
 ---
 
-# 🔥 CONTRIBUTION MATRIX
+## 📈 Performance Analytics
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight" />
+</p>
 
 ---
 
-# 🏆 ACHIEVEMENT SYSTEM
+## 🔥 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jisan23051365&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# ⚡ CONTRIBUTION STREAK ENGINE
+## 🐍 Contribution Neural Graph
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-# 🐍 NEURAL CONTRIBUTION GRID
+## 🚀 Enterprise Systems Portfolio
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🧪 RESEARCH LAB
-
-## 🌍 AI-Based Predictive Modeling of Carbon Footprints
-
-```diff
-+ Random Forest
-+ XGBoost
-+ MLP Regressor
-+ Explainable AI (SHAP)
-+ Environmental Intelligence
-```
-
----
-
-## 📉 ML Reliability Under Incomplete Data
-
-```diff
-+ Logistic Regression
-+ Decision Trees
-+ K-Nearest Neighbors
-+ Missing Data Analysis
-+ Prediction Degradation Research
-```
-
----
-
-# 🚀 ENTERPRISE PROJECTS
-
-## 💳 Core Banking & Digital Wallet System
-
-```yaml
-Architecture:
-  - Spring Boot
-  - Hibernate ORM
-  - REST APIs
-  - MySQL
-  - Financial Ledger Engine
-
-Capabilities:
-  - Secure Transactions
-  - Wallet Integration
-  - Enterprise Banking Infrastructure
-```
+### 💳 Core Banking & Digital Wallet Management System
+- High-availability financial infrastructure  
+- Secure transactions, wallet integration, lifecycle management  
+- Built for enterprise-grade scalability  
 
 🔗 https://github.com/jisan23051365/core-banking-digital-wallet-system
 
 ---
 
-## 🤖 AI Financial Risk & Compliance System
-
-```yaml
-Capabilities:
-  - Fraud Detection
-  - Behavioral Analytics
-  - Risk Prediction
-  - Compliance Automation
-  - Intelligent Monitoring
-```
+### 🤖 AI Financial Risk & Compliance System
+- ML-driven fraud detection & anomaly analysis  
+- Risk scoring, behavioral analytics  
+- Regulatory compliance automation  
 
 🔗 https://github.com/jisan23051365/ai-financial-risk-compliance-system
 
 ---
 
-## 💰 Finzy — AI Finance Management Platform
+### 🏢 Enterprise Resource Analytics & Management System (ERAMS)
+- Enterprise analytics & optimization platform  
+- Decision intelligence dashboards  
+- Scalable architecture for large organizations  
 
-```yaml
-Features:
-  - AI Receipt Scanning
-  - Smart Budgeting
-  - Expense Categorization
-  - Gemini AI Integration
-  - Financial Analytics Dashboard
-```
-
-🔗 https://github.com/jisan23051365
+🔗 https://github.com/jisan23051365/enterprise-resource-analytics-management-system
 
 ---
 
-# 💼 EXPERIENCE MATRIX
+### 🏭 Industrial Manufacturing Production System
+- Production lifecycle & workflow automation  
+- Performance tracking & optimization  
+- Designed for industrial-scale deployment  
 
-| Position                       | Organization            | Timeline  |
-| ------------------------------ | ----------------------- | --------- |
-| Data Science Intern            | SaiKet Systems          | 2026      |
-| Video Editor & Content Creator | GoEdu                   | 2025–2026 |
-| Data Entry Operator            | Golden Harvest InfoTech | 2022      |
-
----
-
-# 🏅 ACHIEVEMENTS
-
-```diff
-+ Top Campus Ambassador — GoEdu
-+ DIU CSE Fest 2025 Project Showcase
-+ National Robotics Championship 2025
-+ DIU Job Utsob Volunteer
-+ DIU SEC Code Trap Organizer
-```
+🔗 https://github.com/jisan23051365/industrial-manufacturing-production-system
 
 ---
 
-# 📜 CERTIFICATIONS
+## 🎯 Strategic Focus
 
-```yaml
-Certifications:
-  - IBM Data Science Professional Certificate
-  - IBM AI Engineering Professional Certificate
-  - IELTS Overall Band Score: 7.0
-```
+- AI-powered enterprise systems  
+- Production-level ML pipelines  
+- Advanced Deep Learning architectures  
+- Data Engineering ecosystems  
 
 ---
 
-# 🌐 CONNECT WITH ME
+## 🌐 Professional Network
 
-<div align="center">
-
-<a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mrkhondokar504">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/jisan23051365">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrkhondokar504/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:jisan2305341365@diu.edu.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# ⚡ ENGINEERING PHILOSOPHY
+## ⚡ Engineering Doctrine
 
-<div align="center">
-
-```diff
-+ Systems over scripts
-+ Intelligence over assumptions
-+ Scalability over shortcuts
-+ Architecture over complexity
-+ Innovation through engineering
-```
-
-</div>
+> Systems over scripts  
+> Intelligence over assumptions  
+> Scalability over shortcuts  
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,25:0b1f3a,50:102d4e,75:0b1f3a,100:050816"/>
-
-</div>
-
-<div align="center">
-
-# 🚀 DATA • AI • SYSTEMS • INNOVATION
-
-</div>
-```
+<h3 align="center">🚀 Data • Intelligence • Systems</h3>
