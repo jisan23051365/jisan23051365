@@ -1,83 +1,103 @@
-# 🚀 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<div align="center">
-
-<img 
-src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/main/assets/jisan-ai-avatar.png"
-width="260"
-/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+🚀;AI+Engineer+🤖;Machine+Learning+Developer+🧠;Building+Intelligent+Systems+💻"/>
-
-</div>
-
----
+<table>
+<tr>
+<td width="58%">
 
 ```python
-class Jisan:
+class SameeulKhondokerJisan:
 
     def __init__(self):
 
-        self.name = "Sameeul Khondoker Jisan"
+        self.username = "jisan23051365"
 
         self.role = [
             "Aspiring Data Scientist",
             "AI Engineer",
-            "ML Developer"
+            "ML Enthusiast"
         ]
 
-        self.focus = [
+        self.specialization = [
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
             "Generative AI",
-            "LLM Applications",
+            "LLM Applications"
+        ]
+
+        self.current_focus = [
+            "Enterprise AI Systems",
+            "Financial Intelligence",
+            "Scalable ML Pipelines",
             "Backend Engineering"
         ]
 
-        self.current_projects = [
-            "AI Financial Risk System",
-            "Core Banking Platform",
-            "Enterprise AI Applications",
-            "Scalable ML Pipelines"
+        self.learning = [
+            "Advanced AI",
+            "LLM Engineering",
+            "System Design",
+            "Data Engineering"
         ]
 
-        self.motto = (
-            "Building intelligent systems with AI, data, and software engineering."
-        )
-
-    def say_hi(self):
-        return "Welcome to my GitHub profile 🚀"
+    def motto(self):
+        return "Build. Learn. Innovate."
 
 
-me = Jisan()
-
-print(me.say_hi())
+me = SameeulKhondokerJisan()
 ```
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,mysql,postgres,docker,git,github,vscode&perline=11"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,mysql,postgres,docker,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
+</td>
+
+<td width="42%" align="center">
+
+<img 
+src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/main/assets/jisan-ai-avatar.png"
+width="280"
+/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=320&height=80&lines=AI+Engineer+🤖;Data+Science+Explorer+📊;Building+Intelligent+Systems+🚀"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## ⚡ Current Mission
+<div align="center">
 
-- 🤖 Building AI-powered enterprise systems  
-- 📊 Transforming data into actionable intelligence  
-- 🧠 Exploring Generative AI & LLM engineering  
-- ⚙️ Designing scalable backend architectures  
-- 🚀 Developing production-ready ML applications  
+### ⚡ Current Mission
+
+</div>
+
+```text
+🤖 Building AI-powered enterprise systems
+📊 Transforming raw data into intelligent insights
+🧠 Exploring Generative AI & LLM engineering
+⚙️ Designing scalable backend architectures
+🚀 Developing production-ready ML applications
+```
 
 ---
 
-## 💡 Engineering Philosophy
+<div align="center">
 
-> Systems over scripts  
-> Intelligence over assumptions  
-> Scalability over shortcuts  
-> Innovation through AI and data  
+### 💡 Engineering Philosophy
+
+</div>
+
+```text
+Systems over scripts
+Intelligence over assumptions
+Scalability over shortcuts
+Innovation through AI and data
+```
