@@ -93,35 +93,27 @@ Mission :
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ4dW42aDFpM2FtbHc5Z2E2b3RjbTZ6N2w0d2k4ZmM4ZXFsaW5vYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="50"> GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/jisan23051365">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF"/>
 
-<a href="https://github.com/jisan23051365">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jisan23051365&theme=tokyonight&hide_border=true"/>
-</a>
+<br><br>
 
-</p>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=00F7FF&title_color=A855F7&text_color=FFFFFF"/>
 
-<p align="center">
+<br><br>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img src="https://img.shields.io/github/followers/jisan23051365?style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight&utcOffset=6"/>
 
-<img src="https://img.shields.io/github/stars/jisan23051365?style=for-the-badge&color=A855F7&labelColor=0D1117"/>
-
-<img src="https://komarev.com/ghpvc/?username=jisan23051365&style=for-the-badge&color=00F7FF"/>
-
-</p>
+</div>
 
 ---
 
