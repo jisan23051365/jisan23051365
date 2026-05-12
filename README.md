@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="260"/>
+<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="220"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;BUILDING+INTELLIGENT+SYSTEMS+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&height=45&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;BUILDING+INTELLIGENT+SYSTEMS+🚀"/>
 
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="36"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="36"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github" width="42"/>
+<img src="https://skillicons.dev/icons?i=github" width="36"/>
 </a>
 
 <br><br>
@@ -31,72 +31,7 @@
 <table>
 <tr>
 
-<td width="33%">
-
-# 📞 CONTACT
-
-```yaml
-Email:
-  mrkhondokar.prof@gmail.com
-
-Phone:
-  +8801767766680
-
-Website:
-  www.sameeul.combd
-
-LinkedIn:
-  linkedin.com/in/mrkhondokar504
-
-GitHub:
-  github.com/jisan23051365
-```
-
----
-
-# 🎓 EDUCATION
-
-```yaml
-B.Sc. in Software Engineering:
-  University:
-    Daffodil International University
-
-  Major:
-    Data Science
-
-  CGPA:
-    3.55 / 4.00
-
-HSC:
-  Group:
-    Science
-
-  GPA:
-    4.33 / 5.00
-
-SSC:
-  Group:
-    Science
-
-  GPA:
-    3.89 / 5.00
-```
-
----
-
-# 📚 RESEARCH
-
-```yaml
-AI-Based Carbon Footprint Prediction:
-  Using ML models & SHAP analysis
-
-ML Model Prediction Analysis:
-  Logistic Regression, DT & KNN
-```
-
-</td>
-
-<td width="34%">
+<td valign="top" width="50%">
 
 # 👨‍💻 ABOUT ME
 
@@ -122,34 +57,8 @@ class SameeulKhondokerJisan:
         self.current_focus = [
             "Enterprise AI Systems",
             "Financial Intelligence",
-            "Scalable ML Pipelines",
-            "Backend Engineering"
+            "Scalable ML Pipelines"
         ]
-
-        self.tech_stack = {
-
-            "Languages": [
-                "Python",
-                "Java",
-                "SQL",
-                "JavaScript",
-                "C/C++"
-            ],
-
-            "AI/ML": [
-                "TensorFlow",
-                "PyTorch",
-                "Scikit-Learn",
-                "XGBoost"
-            ],
-
-            "Backend": [
-                "Spring Boot",
-                "REST APIs",
-                "PostgreSQL",
-                "MySQL"
-            ]
-        }
 
         self.motto = (
             "Building futuristic intelligent "
@@ -165,18 +74,6 @@ me = SameeulKhondokerJisan()
 
 ---
 
-# ⚡ CURRENT MISSION
-
-```yaml
-🤖 Building enterprise AI systems
-📊 Transforming data into intelligence
-🧠 Exploring Generative AI & LLMs
-⚙️ Designing scalable architectures
-🚀 Developing production-grade AI apps
-```
-
----
-
 # 🛠️ TECH STACK
 
 <div align="center">
@@ -185,34 +82,65 @@ me = SameeulKhondokerJisan()
 
 </div>
 
+---
+
+# ⚡ CURRENT MISSION
+
+```yaml
+🤖 Building enterprise AI systems
+📊 Transforming data into intelligence
+🧠 Exploring Generative AI & LLMs
+🚀 Developing production-grade AI apps
+```
+
 </td>
 
-<td width="33%">
+<td valign="top" width="50%">
+
+# 📞 CONTACT
+
+```yaml
+Email:
+  mrkhondokar.prof@gmail.com
+
+Phone:
+  +8801767766680
+
+Website:
+  www.sameeul.combd
+
+LinkedIn:
+  linkedin.com/in/mrkhondokar504
+
+GitHub:
+  github.com/jisan23051365
+```
+
+---
+
+# 🎓 EDUCATION
+
+```yaml
+B.Sc. in Software Engineering
+Major: Data Science
+CGPA: 3.55 / 4.00
+
+Daffodil International University
+```
+
+---
 
 # 💻 EXPERIENCE
 
 ```yaml
-Video Editor & Content Creator:
-  Company:
-    GoEdu
+Data Science Intern
+SaiKet Systems
 
-  Duration:
-    Feb 2025 - Feb 2026
+Video Editor & Content Creator
+GoEdu
 
-Data Science Intern:
-  Company:
-    SaiKet Systems
-
-  Duration:
-    Mar 2026 - Apr 2026
-
-Volunteer:
-  Organization:
-    CDC-DIU
-
-Data Entry Operator:
-  Company:
-    Golden Harvest InfoTech
+Volunteer
+CDC-DIU
 ```
 
 ---
@@ -222,31 +150,11 @@ Data Entry Operator:
 ```yaml
 Core Banking & Digital Wallet System
 
-AI Financial Risk & Compliance System
+AI Financial Risk System
 
 Finzy AI Finance Platform
 
 LLM Code Review Assistant
-
-AI Public Transport Delay Prediction
-
-Mini Search Engine for Local Files
-```
-
----
-
-# 🏆 CERTIFICATIONS
-
-```yaml
-IBM Data Science Professional Certificate
-
-IBM AI Engineering Certificate
-
-DIU CSE Fest Contributor
-
-National Robotics Participant
-
-Top Campus Ambassador | GoEdu
 ```
 
 </td>
@@ -259,9 +167,9 @@ Top Campus Ambassador | GoEdu
 <div align="center">
 
 ```text
-"Systems over scripts" ⚡
-"Intelligence over assumptions" 🧠
-"Innovation through AI and data" 🚀
+Systems over scripts ⚡
+Intelligence over assumptions 🧠
+Innovation through AI & data 🚀
 ```
 
 </div>
