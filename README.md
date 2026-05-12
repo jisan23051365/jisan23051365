@@ -1,23 +1,23 @@
 <div align="center">
 
-<img 
-src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="100%"
-alt="Jisan AI Banner"
-/>
+<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="72%"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;GENERATIVE+AI+ENGINEER+🚀;BUILDING+INTELLIGENT+SYSTEMS+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;GENERATIVE+AI+BUILDER+🚀"/>
 
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ2N3A0N2o0NjE0dHB4aWF2djRwOWQ4N3VkMjF2bWl0ZWQ0aG5sbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="42"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV0ZzV2bHVqcnZrYzQ0a3k1dW5pYTZyMnlqOXB5cTQ3YjJ2N2s4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="42"/>
+</a>
+
+<a href="https://github.com/jisan23051365">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNwODRrMW85bG85NjBmcW84Y2M0MXd0dDA3d2N2dTZobzVnNXl6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBkPNyZPOk0BxrM/giphy.gif" width="42"/>
 </a>
 
 <br><br>
@@ -28,184 +28,97 @@ alt="Jisan AI Banner"
 
 ---
 
-# <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="34"> ABOUT ME
+# <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="34"> ABOUT ME
 
-```python
-class SameeulKhondokerJisan:
+```yaml
+👨‍💻 Name: Sameeul Khondoker Jisan
 
-    def __init__(self):
+🤖 Role:
+  • AI Engineer
+  • Data Science Explorer
+  • Generative AI Enthusiast
 
-        self.name = "Sameeul Khondoker Jisan"
+🎓 Education:
+  • B.Sc. in Software Engineering
+  • Major in Data Science
+  • Daffodil International University
+  • CGPA: 3.55 / 4.00
 
-        self.role = [
-            "AI Engineer",
-            "ML Engineer",
-            "Data Scientist",
-            "Generative AI Explorer"
-        ]
+🧠 Core Expertise:
+  • Machine Learning
+  • Deep Learning
+  • Generative AI
+  • LLM Engineering
+  • Predictive Analytics
+  • AI Automation
 
-        self.specialization = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "LLM Engineering",
-            "Predictive Analytics",
-            "AI Automation",
-            "Data Visualization"
-        ]
+⚙️ Current Focus:
+  • Enterprise AI Systems
+  • Financial Intelligence Platforms
+  • Scalable ML Pipelines
+  • AI-Powered Applications
 
-        self.current_focus = [
-            "Enterprise AI Systems",
-            "Financial Intelligence",
-            "Scalable ML Pipelines",
-            "AI Automation",
-            "Backend Engineering"
-        ]
+🚀 Featured Projects:
+  • Core Banking & Digital Wallet System
+  • Finzy — AI Finance Platform
+  • LLM Code Review Assistant
+  • AI Transport Delay Prediction
 
-        self.education = {
-            "degree":
-            "B.Sc. in Software Engineering",
+🔬 Research:
+  • Carbon Footprint Prediction using AI
+  • ML Performance on Incomplete Data
+  • Explainable AI & Predictive Modeling
 
-            "major":
-            "Data Science",
-
-            "university":
-            "Daffodil International University",
-
-            "cgpa":
-            "3.55 / 4.00"
-        }
-
-        self.projects = [
-            "Core Banking Platform",
-            "AI Financial Risk System",
-            "Finzy AI Finance Platform",
-            "LLM Code Review Assistant",
-            "AI Transport Delay Prediction"
-        ]
-
-        self.research = [
-            "Carbon Footprint Prediction",
-            "ML Performance Analysis",
-            "Predictive Analytics"
-        ]
-
-        self.motto = (
-            "Building futuristic intelligent "
-            "systems powered by AI, scalable "
-            "engineering, and real-world innovation."
-        )
-
-    def initialize(self):
-        return "AI systems online 🚀"
-
-
-me = SameeulKhondokerJisan()
+🏆 Certifications:
+  • IBM Data Science Professional Certificate
+  • IBM AI Engineering Professional Certificate
+  • IELTS Overall Band 7.0
 ```
 
 ---
 
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="34"> TECH STACK
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="34"> TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,cpp,mysql,docker,git,github,vscode,linux,postman,nextjs,r&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,cpp,docker,git,github,vscode,linux,postman,nextjs,r&theme=dark"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="34"> CURRENT MISSION
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="34"> EXPERIENCE
 
 ```yaml
-⚡ Building enterprise-grade AI systems
-📊 Transforming raw data into intelligent insights
-🧠 Exploring Generative AI & LLM ecosystems
-🚀 Developing production-ready ML applications
-🔬 Researching intelligent prediction systems
-🏦 Designing scalable fintech infrastructures
-```
-
----
-
-# <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="34"> EXPERIENCE
-
-```yaml
-📊 Data Science Intern — SaiKet Systems
 🎬 Video Editor & Content Creator — GoEdu
+
+📊 Data Science Intern — SaiKet Systems
+
 🤝 Volunteer — CDC-DIU
+
 💻 Data Entry Operator — Golden Harvest InfoTech
 ```
 
 ---
 
-# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="34"> FEATURED PROJECTS
-
-```yaml
-🏦 Core Banking & Digital Wallet System
-
-🛡️ AI Financial Risk & Compliance System
-
-💰 Finzy — AI Finance Platform
-
-🤖 LLM-Powered Code Review Assistant
-
-🚌 AI-Based Public Transport Delay Prediction
-
-🔎 Mini Search Engine for Local File Indexing
-```
-
----
-
-# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="34"> CERTIFICATIONS
-
-```yaml
-🏆 IBM Data Science Professional Certificate
-
-🏆 IBM AI Engineering Professional Certificate
-
-🌍 IELTS Academic Overall Band 7.0
-```
-
----
-
-# 📊 GITHUB DASHBOARD
+# <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="34"> GITHUB ANALYTICS
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true"/>
-
 </div>
-
----
-
-# 🧠 ENGINEERING PHILOSOPHY
-
-```text
-Systems over scripts
-Intelligence over assumptions
-Scalability over shortcuts
-Innovation through AI and data
-Consistency builds mastery
-```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer&text=BUILDING%20INTELLIGENT%20SYSTEMS%20🚀&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=130&section=footer&text=BUILD%20•%20LEARN%20•%20INNOVATE&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
