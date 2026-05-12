@@ -1,211 +1,150 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">⚡ Sameeul Khondoker Jisan</h1>
+<!-- ===================== ADVANCED HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist+%26+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Data+Analytics+%7C+Predictive+Modeling;Building+Scalable+Intelligent+Systems" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:071B2A,50:0B2D45,75:114B5F,100:00F7FF&text=Sameeul%20Khondoker%20Jisan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Developer&descAlignY=58&descAlign=50"/>
 </p>
+
+<!-- ===================== PROFILE IMAGE ===================== -->
 
 <p align="center">
-  <strong>
-    Software Engineering Student • Data Science Enthusiast • AI Builder
-  </strong>
+  <img src="YOUR_IMAGE_LINK_HERE" width="260" style="border-radius:50%;" />
 </p>
+
+<!-- ===================== ANIMATED TYPING ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=Profile+Views&color=00f7ff&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Aspiring+Data+Scientist+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+%7C+LLM+Applications+%F0%9F%A7%A0;Building+Scalable+Intelligent+Systems+%F0%9F%92%BB;Python+Developer+%7C+Data+Analyst+%F0%9F%93%8A"/>
 </p>
+
+<!-- ===================== SOCIAL ICONS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+
+<a href="https://github.com/jisan23051365">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://linkedin.com/in/mrkhondokar504">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:mrkhondokar.prof@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
+
+<a href="https://www.java.com">
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+</a>
+
+<a href="https://www.tensorflow.org">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+</a>
+
+<a href="https://pytorch.org">
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</a>
+
+<a href="https://www.postgresql.org">
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+</a>
+
+<a href="https://spring.io">
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+</a>
+
+<a href="https://nextjs.org">
+<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
+</a>
+
+<a href="https://react.dev">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+</a>
+
+<a href="https://www.javascript.com">
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+</a>
+
+<a href="https://www.typescriptlang.org">
+<img src="https://skillicons.dev/icons?i=ts" height="45"/>
+</a>
+
+<a href="https://www.docker.com">
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+</a>
+
+<a href="https://www.linux.org">
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+</a>
+
+<a href="https://jupyter.org">
+<img src="https://skillicons.dev/icons?i=anaconda" height="45"/>
+</a>
+
 </p>
 
----
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0B2D45&height=2"/>
+
+<!-- ===================== ABOUT ME ===================== -->
 
 # 🚀 About Me
 
-I am a Software Engineering student majoring in Data Science, passionate about building intelligent, scalable, and impactful digital systems.
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-My core interests include:
-
-- Artificial Intelligence & Generative AI
-- Machine Learning & Deep Learning
-- Data Science & Predictive Analytics
-- Intelligent Enterprise System Architecture
-- LLM Applications & AI Automation
-
-I enjoy transforming raw data into actionable intelligence through modern AI technologies, statistical modeling, and software engineering principles.
-
-Currently, I am focused on:
-
-- Building enterprise-grade AI systems
-- Developing production-ready ML solutions
-- Exploring Generative AI & LLM engineering
-- Designing scalable backend architectures
-- Solving real-world problems using data-driven approaches
-
-I believe technology should not only be functional — it should be intelligent, scalable, and meaningful.
-
----
-
-# 🛠️ Tech Arsenal
-
-## 🚀 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-## 🧠 AI / ML / DL
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)
-
----
-
-## 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-
----
-
-## ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
-
----
-
-# 📊 Development Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🧩 Currently Working On
-
-- 🤖 AI Financial Risk & Compliance System
-- 💳 Core Banking & Digital Wallet Platform
-- 🧠 LLM-Powered Intelligent Applications
-- 📊 Advanced Data Analytics Projects
-
----
-
-# 🏗️ Featured Projects
-
-## 💳 Core Banking & Digital Wallet Management System
-- Enterprise-grade banking backend architecture
-- Secure transactions & digital wallet integration
-- Built with Spring Boot, Hibernate, REST APIs & MySQL
-
-🔗 https://github.com/jisan23051365/core-banking-digital-wallet-system
-
----
-
-## 🤖 AI Financial Risk & Compliance System
-- AI-powered fraud detection & compliance analysis
-- Behavioral analytics & intelligent risk scoring
-- Scalable ML-driven financial intelligence platform
-
-🔗 https://github.com/jisan23051365/ai-financial-risk-compliance-system
-
----
-
-## 🏢 Enterprise Resource Analytics & Management System (ERAMS)
-- Enterprise analytics & operational intelligence platform
-- Data-driven dashboards & scalable architecture
-- Designed for large-scale business optimization
-
-🔗 https://github.com/jisan23051365/enterprise-resource-analytics-management-system
-
----
-
-## 🧠 Finzy — AI Personal Finance Management System
-- AI-powered finance tracking & smart analytics
-- Receipt scanning & intelligent expense categorization
-- Built with Next.js, Prisma, PostgreSQL & Gemini AI
-
-🔗 https://github.com/jisan23051365
-
----
-
-# 🎯 Current Focus
-
-- Generative AI & LLM Engineering
-- Advanced Machine Learning Systems
-- Intelligent Backend Architecture
-- AI-Powered Enterprise Applications
-- Scalable Data Engineering Pipelines
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrkhondokar504/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:mrkhondokar.prof@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/jisan23051365">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-# 💡 Engineering Philosophy
-
-> Systems over scripts  
-> Intelligence over assumptions  
-> Scalability over shortcuts  
-> Innovation through data and AI  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
-
-<h3 align="center">
-AI • Data Science • Intelligent Systems 🚀
-</h3>
+```yaml
+Name: Sameeul Khondoker Jisan
+Role: Aspiring Data Scientist & AI Engineer
+Education: B.Sc. in Software Engineering
+Major: Data Science
+University: Daffodil International University
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Intelligent Systems
+Currently Working On:
+  - AI Financial Risk System
+  - Core Banking Platform
+  - LLM Applications
+  - Data Analytics Projects
+<br> <!-- ===================== TECH STACK ===================== -->
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp,js,ts,html,css,react,nextjs,nodejs,spring,mysql,postgres,mongodb,tensorflow,pytorch,git,github,docker,linux,vscode,idea,postman,figma&perline=9" /> </p>
+<!-- ===================== GITHUB STATS ===================== -->
+📊 GitHub Analytics
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/> </p>
+<!-- ===================== STREAK ===================== -->
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true&border_radius=15"/> </p>
+<!-- ===================== TROPHIES ===================== -->
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jisan23051365&theme=tokyonight&no-frame=true&row=1&column=7"/> </p>
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true"/> </p>
+<!-- ===================== SNAKE ===================== -->
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/jisan23051365/jisan23051365/output/github-contribution-grid-snake-dark.svg"/> </p>
+<!-- ===================== QUOTE ===================== -->
+💡 Engineering Philosophy
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
+<!-- ===================== VISITOR BADGE ===================== --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/> </p>
+<!-- ===================== FOOTER ===================== --> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,50:0B2D45,100:050816"/> </p> <h3 align="center"> ✨ AI • Data Science • Intelligent Systems ✨ </h3> ```
