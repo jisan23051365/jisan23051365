@@ -112,9 +112,15 @@ me = SameeulKhondokerJisan()
 
 # <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="34"> TECH STACK
 
+# ⚡ TECH STACK
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,cpp,mysql,docker,git,github,vscode,linux,postman,nextjs,r&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,cpp,mysql,docker,git,github,vscode,linux,postman,nextjs&theme=dark"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=r&theme=dark"/>
 
 </div>
 
