@@ -188,10 +188,6 @@ me = SameeulKhondokerJisan()
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
