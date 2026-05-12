@@ -178,15 +178,29 @@ me = SameeulKhondokerJisan()
 
 ---
 
-# 📊 GITHUB DASHBOARD
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jisan23051365&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight"/>
 
 <br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight&utcOffset=6"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jisan23051365&theme=tokyonight"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
