@@ -1,9 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 <table>
 <tr>
 
-<td width="64%">
+<td width="72%">
 
 ```python
 class JisanAI:
@@ -18,7 +18,7 @@ class JisanAI:
             "ML Enthusiast"
         ]
 
-        self.domain = [
+        self.specialization = [
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
@@ -29,35 +29,22 @@ class JisanAI:
         self.current_focus = [
             "Enterprise AI Systems",
             "Financial Intelligence",
-            "Scalable ML Pipelines",
-            "Backend Engineering"
+            "Scalable ML Pipelines"
         ]
 
         self.tech_stack = {
-            "languages": [
-                "Python", "Java", "SQL"
-            ],
-
-            "ai_ml": [
-                "TensorFlow",
-                "PyTorch",
-                "Scikit-Learn"
-            ],
-
-            "backend": [
-                "Spring Boot",
-                "PostgreSQL",
-                "REST APIs"
-            ]
+            "languages": ["Python", "Java", "SQL"],
+            "ai_ml": ["TensorFlow", "PyTorch"],
+            "backend": ["Spring Boot", "PostgreSQL"]
         }
 
         self.motto = (
             "Building futuristic intelligent systems "
-            "powered by AI, data, and scalable engineering."
+            "powered by AI and scalable engineering."
         )
 
-    def initialize(self):
-        return "AI systems online 🚀"
+    def boot(self):
+        return "AI systems initialized 🚀"
 
 
 me = JisanAI()
@@ -67,30 +54,22 @@ me = JisanAI()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,docker,git,github,vscode,linux,postman,nextjs&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-00F7FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLM_ENGINEERING-5B21B6?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,docker,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 </td>
 
-<td width="36%" align="center">
+<td width="28%" align="center">
 
 <img 
 src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="145"
+width="120"
 />
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=16&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=220&height=55&lines=AI+Engineer+🤖;Building+Future+Systems+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=13&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=170&height=30&lines=AI+Engineer+🤖"/>
 
 <br>
 
@@ -99,15 +78,15 @@ width="145"
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="32"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="32"/>
 </a>
 
 </td>
@@ -117,31 +96,9 @@ width="145"
 
 ---
 
-<div align="center">
-
-## ⚡ Current Mission
-
-</div>
-
 ```yaml
-🤖 Designing intelligent enterprise systems
-📊 Turning data into decision-ready intelligence
+⚡ Designing intelligent enterprise systems
+📊 Transforming data into actionable intelligence
 🧠 Exploring Generative AI & LLM ecosystems
-⚙️ Engineering scalable backend infrastructures
 🚀 Building production-grade AI applications
-```
-
----
-
-<div align="center">
-
-## 💡 Engineering Philosophy
-
-</div>
-
-```text
-Systems over scripts
-Intelligence over assumptions
-Scalability over shortcuts
-Innovation through AI and data
 ```
