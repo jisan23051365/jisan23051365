@@ -59,7 +59,7 @@ me = SameeulKhondokerJisan()
 <td width="42%" align="center">
 
 <img 
-src="https://github.com/jisan23051365/jisan23051365/blob/main/assets/jisan-ai-avatar.png?raw=true"
+src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
 width="280"
 />
 
