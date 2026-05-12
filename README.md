@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="72%"/>
+<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="70%"/>
 
 <br><br>
 
@@ -9,15 +9,15 @@
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ2N3A0N2o0NjE0dHB4aWF2djRwOWQ4N3VkMjF2bWl0ZWQ0aG5sbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="42"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV0ZzV2bHVqcnZrYzQ0a3k1dW5pYTZyMnlqOXB5cTQ3YjJ2N2s4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="42"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNwODRrMW85bG85NjBmcW84Y2M0MXd0dDA3d2N2dTZobzVnNXl6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBkPNyZPOk0BxrM/giphy.gif" width="42"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <br><br>
@@ -31,7 +31,8 @@
 # <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="34"> ABOUT ME
 
 ```yaml
-👨‍💻 Name: Sameeul Khondoker Jisan
+👨‍💻 Name:
+  Sameeul Khondoker Jisan
 
 🤖 Role:
   • AI Engineer
@@ -44,7 +45,7 @@
   • Daffodil International University
   • CGPA: 3.55 / 4.00
 
-🧠 Core Expertise:
+🧠 Expertise:
   • Machine Learning
   • Deep Learning
   • Generative AI
@@ -63,11 +64,6 @@
   • Finzy — AI Finance Platform
   • LLM Code Review Assistant
   • AI Transport Delay Prediction
-
-🔬 Research:
-  • Carbon Footprint Prediction using AI
-  • ML Performance on Incomplete Data
-  • Explainable AI & Predictive Modeling
 
 🏆 Certifications:
   • IBM Data Science Professional Certificate
