@@ -8,7 +8,7 @@ alt="Jisan AI Banner"
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;GENERATIVE+AI+ENGINEER+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=AI+ENGINEER+🤖;DATA+SCIENCE+EXPLORER+📊;GENERATIVE+AI+ENGINEER+🚀;BUILDING+INTELLIGENT+SYSTEMS+⚡"/>
 
 <br><br>
 
@@ -44,7 +44,8 @@ class SameeulKhondokerJisan:
         self.role = [
             "AI Engineer",
             "ML Engineer",
-            "Data Scientist"
+            "Data Scientist",
+            "Generative AI Explorer"
         ]
 
         self.specialization = [
@@ -53,14 +54,17 @@ class SameeulKhondokerJisan:
             "Deep Learning",
             "Generative AI",
             "LLM Engineering",
-            "Predictive Analytics"
+            "Predictive Analytics",
+            "AI Automation",
+            "Data Visualization"
         ]
 
         self.current_focus = [
             "Enterprise AI Systems",
             "Financial Intelligence",
+            "Scalable ML Pipelines",
             "AI Automation",
-            "Scalable ML Pipelines"
+            "Backend Engineering"
         ]
 
         self.education = {
@@ -81,12 +85,20 @@ class SameeulKhondokerJisan:
             "Core Banking Platform",
             "AI Financial Risk System",
             "Finzy AI Finance Platform",
-            "LLM Code Review Assistant"
+            "LLM Code Review Assistant",
+            "AI Transport Delay Prediction"
+        ]
+
+        self.research = [
+            "Carbon Footprint Prediction",
+            "ML Performance Analysis",
+            "Predictive Analytics"
         ]
 
         self.motto = (
             "Building futuristic intelligent "
-            "systems powered by AI."
+            "systems powered by AI, scalable "
+            "engineering, and real-world innovation."
         )
 
     def initialize(self):
@@ -112,10 +124,11 @@ me = SameeulKhondokerJisan()
 
 ```yaml
 ⚡ Building enterprise-grade AI systems
-📊 Turning raw data into intelligent insights
+📊 Transforming raw data into intelligent insights
 🧠 Exploring Generative AI & LLM ecosystems
 🚀 Developing production-ready ML applications
 🔬 Researching intelligent prediction systems
+🏦 Designing scalable fintech infrastructures
 ```
 
 ---
@@ -124,11 +137,8 @@ me = SameeulKhondokerJisan()
 
 ```yaml
 📊 Data Science Intern — SaiKet Systems
-
 🎬 Video Editor & Content Creator — GoEdu
-
 🤝 Volunteer — CDC-DIU
-
 💻 Data Entry Operator — Golden Harvest InfoTech
 ```
 
@@ -143,9 +153,11 @@ me = SameeulKhondokerJisan()
 
 💰 Finzy — AI Finance Platform
 
-🤖 LLM Code Review Assistant
+🤖 LLM-Powered Code Review Assistant
 
-🚌 AI Transport Delay Prediction
+🚌 AI-Based Public Transport Delay Prediction
+
+🔎 Mini Search Engine for Local File Indexing
 ```
 
 ---
@@ -162,13 +174,37 @@ me = SameeulKhondokerJisan()
 
 ---
 
+# 📊 GITHUB DASHBOARD
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jisan23051365&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jisan23051365&theme=tokyo-night&hide_border=true"/>
+
 </div>
+
+---
+
+# 🧠 ENGINEERING PHILOSOPHY
+
+```text
+Systems over scripts
+Intelligence over assumptions
+Scalability over shortcuts
+Innovation through AI and data
+Consistency builds mastery
+```
 
 ---
 
