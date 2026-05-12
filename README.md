@@ -3,6 +3,7 @@
 <img 
 src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
 width="100%"
+alt="Jisan AI Banner"
 />
 
 <br><br>
