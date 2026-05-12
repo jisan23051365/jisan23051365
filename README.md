@@ -20,10 +20,6 @@ alt="Jisan AI Banner"
 <img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="https://github.com/jisan23051365">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
