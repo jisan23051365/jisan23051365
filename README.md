@@ -178,13 +178,15 @@ me = SameeulKhondokerJisan()
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=jisan23051365&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight"/>
 
 </div>
 
