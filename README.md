@@ -103,8 +103,6 @@ Mission :
 
 <br><br>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisan23051365&theme=tokyonight"/>
-
 </div>
 
 ---
