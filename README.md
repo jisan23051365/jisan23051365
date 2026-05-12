@@ -1,28 +1,26 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-
 <div align="center">
 
 <img 
 src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="120"
+width="220"
 />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=14&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=220&height=30&lines=AI+Engineer+🤖;Building+Future+Systems+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=18&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&height=40&lines=AI+Engineer+🤖;Building+Future+Systems+🚀"/>
 
 <br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="30"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="34"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github" width="30"/>
+<img src="https://skillicons.dev/icons?i=github" width="34"/>
 </a>
 
 <br><br>
@@ -32,6 +30,8 @@ width="120"
 </div>
 
 ---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 ```python
 class JisanAI:
