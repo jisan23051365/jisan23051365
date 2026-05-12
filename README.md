@@ -1,9 +1,37 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<table>
-<tr>
+<div align="center">
 
-<td width="78%">
+<img 
+src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
+width="120"
+/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=14&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=220&height=30&lines=AI+Engineer+🤖;Building+Future+Systems+🚀"/>
+
+<br>
+
+<a href="mailto:mrkhondokar.prof@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mrkhondokar504/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
+</a>
+
+<a href="https://github.com/jisan23051365">
+<img src="https://skillicons.dev/icons?i=github" width="30"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jisan23051365&label=PROFILE+VIEWS&color=00F7FF&style=flat"/>
+
+</div>
+
+---
 
 ```python
 class JisanAI:
@@ -50,49 +78,11 @@ class JisanAI:
 me = JisanAI()
 ```
 
-<br>
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,docker,git,github,vscode,linux,postman,nextjs&theme=dark"/>
 
 </div>
-
-</td>
-
-<td width="22%" align="center">
-
-<img 
-src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
-width="120"
-/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=13&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=170&height=28&lines=AI+Engineer+🤖"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jisan23051365&label=VIEWS&color=00F7FF&style=flat"/>
-
-<br><br>
-
-<a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="30"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
-</a>
-
-<a href="https://github.com/jisan23051365">
-<img src="https://skillicons.dev/icons?i=github" width="30"/>
-</a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
