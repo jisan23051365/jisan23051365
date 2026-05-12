@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true" width="100%"/>
+<img 
+src="https://github.com/jisan23051365/jisan23051365/blob/main/jisan-ai-avatar.png?raw=true"
+width="100%"
+/>
 
 <br><br>
 
@@ -9,15 +12,15 @@
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 <a href="https://github.com/jisan23051365">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
 <br><br>
@@ -28,10 +31,10 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="35"> ABOUT ME
+# <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="34"> ABOUT ME
 
 ```python
-class JisanAI:
+class SameeulKhondokerJisan:
 
     def __init__(self):
 
@@ -45,25 +48,40 @@ class JisanAI:
 
         self.specialization = [
             "Artificial Intelligence",
+            "Machine Learning",
             "Deep Learning",
             "Generative AI",
-            "LLM Engineering"
+            "LLM Engineering",
+            "Predictive Analytics"
         ]
 
-        self.focus = [
+        self.current_focus = [
             "Enterprise AI Systems",
+            "Financial Intelligence",
             "AI Automation",
-            "Scalable ML Pipelines",
-            "Financial Intelligence"
+            "Scalable ML Pipelines"
         ]
 
         self.education = {
-            "University":
+            "degree":
+            "B.Sc. in Software Engineering",
+
+            "major":
+            "Data Science",
+
+            "university":
             "Daffodil International University",
 
-            "Major":
-            "Data Science"
+            "cgpa":
+            "3.55 / 4.00"
         }
+
+        self.projects = [
+            "Core Banking Platform",
+            "AI Financial Risk System",
+            "Finzy AI Finance Platform",
+            "LLM Code Review Assistant"
+        ]
 
         self.motto = (
             "Building futuristic intelligent "
@@ -72,37 +90,36 @@ class JisanAI:
 
     def initialize(self):
         return "AI systems online 🚀"
+
+
+me = SameeulKhondokerJisan()
 ```
 
 ---
 
-# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> TECH STACK
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="34"> TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,mysql,docker,git,github,vscode,linux,postman,nextjs,r,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,spring,postgres,cpp,mysql,docker,git,github,vscode,linux,postman,nextjs,r&theme=dark"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> CURRENT MISSION
+# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="34"> CURRENT MISSION
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ENTERPRISE_AI_SYSTEMS-111827?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-111827?style=for-the-badge&logo=tensorflow&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/LLM_ENGINEERING-111827?style=for-the-badge&logo=python&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/SCALABLE_BACKEND-111827?style=for-the-badge&logo=spring&logoColor=00F7FF"/>
-
-</div>
+```yaml
+⚡ Building enterprise-grade AI systems
+📊 Turning raw data into intelligent insights
+🧠 Exploring Generative AI & LLM ecosystems
+🚀 Developing production-ready ML applications
+🔬 Researching intelligent prediction systems
+```
 
 ---
 
-# <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="35"> EXPERIENCE
+# <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="34"> EXPERIENCE
 
 ```yaml
 📊 Data Science Intern — SaiKet Systems
@@ -116,7 +133,7 @@ class JisanAI:
 
 ---
 
-# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> FEATURED PROJECTS
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="34"> FEATURED PROJECTS
 
 ```yaml
 🏦 Core Banking & Digital Wallet System
@@ -127,22 +144,20 @@ class JisanAI:
 
 🤖 LLM Code Review Assistant
 
-🚌 AI Transport Delay Prediction System
+🚌 AI Transport Delay Prediction
 ```
 
 ---
 
-# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35"> CERTIFICATIONS
+# <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="34"> CERTIFICATIONS
 
-<div align="center">
+```yaml
+🏆 IBM Data Science Professional Certificate
 
-<img src="https://img.shields.io/badge/IBM_DATA_SCIENCE-111827?style=for-the-badge&logo=ibm&logoColor=00F7FF"/>
+🏆 IBM AI Engineering Professional Certificate
 
-<img src="https://img.shields.io/badge/IBM_AI_ENGINEERING-111827?style=for-the-badge&logo=ibm&logoColor=00F7FF"/>
-
-<img src="https://img.shields.io/badge/IELTS_BAND_7.0-111827?style=for-the-badge&logo=googletranslate&logoColor=00F7FF"/>
-
-</div>
+🌍 IELTS Academic Overall Band 7.0
+```
 
 ---
 
