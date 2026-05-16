@@ -13,11 +13,11 @@
 <br><br>
 
 <a href="mailto:mrkhondokar.prof@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mrkhondokar504/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://jisan23051365.github.io/my-portfolio/">
@@ -167,13 +167,13 @@ Goal        :
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=A855F7&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jisan23051365&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=A855F7&text_color=ffffff&bg_color=0d1117&count_private=true" width="48%"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jisan23051365&theme=tokyonight&hide_border=true&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=jisan23051365&theme=tokyonight&hide_border=true&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF&background=0d1117" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0d1117" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisan23051365&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0d1117&langs_count=8" width="42%"/>
 
 </div>
 
